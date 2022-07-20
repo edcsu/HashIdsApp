@@ -2,7 +2,7 @@ namespace HashIdsApp
 {
     public class WeatherForecast
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
 
         public string? ShortId { get; set; }
         
